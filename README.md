@@ -12,6 +12,38 @@ I combine approximately three years of telecommunications engineering experience
 
 **Target roles:** Data Scientist, Data Engineer, Analytics Engineer, Applied AI/ML Engineer, Forward Deployed Engineer. **Target start:** Summer 2027.
 
+## Portfolio Navigation
+
+| Explore | What you'll find |
+|---|---|
+| [Cloud Data Engineering](https://github.com/mathurhritik2507/aws-big-data-analytics-pipeline) | AWS EMR, S3, Hive, preprocessing, analytical queries |
+| [Network Intelligence](https://github.com/mathurhritik2507/ai-network-incident-prediction) | Incident-risk classification, anomaly detection, evaluation |
+| [Civic Product Engineering](https://github.com/mathurhritik2507/Nagrik) | React Native, Expo, Firebase, web beta |
+| [Full-Stack Prototypes](https://github.com/mathurhritik2507/swipe-to-help) | Product discovery, account flows, moderation concepts |
+| [Forecasting](https://github.com/mathurhritik2507/time-series-forecasting-python) | Time-series analysis and forecasting |
+
+## Architecture Snapshots
+
+```mermaid
+flowchart TD
+  A[2008 Airline Data] --> B[Amazon S3]
+  B --> C[AWS EMR + Hive]
+  C --> D[Analytical Queries]
+  C --> E[Python Data Preparation]
+  E --> F[Classification + Evaluation]
+```
+
+```mermaid
+flowchart TD
+  A[Synthetic Telecom KPIs] --> B[Feature Preparation]
+  B --> C[Supervised Incident Prediction]
+  B --> D[Isolation Forest Anomaly Detection]
+  C --> E[Evaluation + Dashboard]
+  D --> E
+```
+
+*These diagrams summarize separate portfolio workflows and are not claims of live production infrastructure.*
+
 ## Featured Repositories
 
 | Project | Focus | Technologies | Repository |
@@ -31,6 +63,10 @@ I combine approximately three years of telecommunications engineering experience
 ### NetOps GeoAI — Separate Project
 
 NetOps GeoAI is a geospatial network-intelligence application concept distinct from the **NetOps AI incident-prediction repository**. Its dedicated public repository or live demo has **not yet been verified**. Do not use the NetOps AI link as a GeoAI source-code link.
+
+## What to Review First
+
+For a technical review, start with the **NetOps AI** repository's training, evaluation, and anomaly-detection documentation. For cloud engineering, examine the **AWS flight-delay pipeline** and its Hive/Python workflow. For product development, explore **Nagrik** and its documented beta limitations.
 
 ## Technical Skills
 
@@ -57,7 +93,7 @@ Contributed to automotive semiconductor-related research, experimental documenta
 
 **Bibliometric analysis on hand gesture firefighter assistance robots** — published research with **700+ reported downloads**.
 
-This work reflects research methodology, technical literature analysis, and scientific communication. The verified direct publication URL should be added here once confirmed; an unrelated publication link has intentionally not been substituted.
+This work reflects research methodology, technical literature analysis, and scientific communication. Publication reference: https://scholarworks.sjsu.edu/libphilprac/5584/ (confirm the paper metadata before citing externally).
 
 ## Education
 
