@@ -16,6 +16,7 @@ I combine approximately three years of telecommunications engineering experience
 
 | Project | Focus | Technologies | Repository |
 |---|---|---|---|
+| **NetOps GeoAI — Geospatial Network Intelligence** | Geospatial network operations visualization concept; dedicated public source/demo pending | Geospatial analysis, network intelligence, visualization | [Related repositories](https://github.com/mathurhritik2507?tab=repositories) |
 | **NetOps AI: Incident Prediction & Anomaly Detection** | Predictive modeling and anomaly detection over simulated telecom KPIs; Streamlit dashboards and tests | Python, scikit-learn, Isolation Forest, Streamlit, GitHub Actions | [Explore](https://github.com/mathurhritik2507/ai-network-incident-prediction) |
 | **AWS Big Data Analytics Pipeline** | Flight-delay analysis with S3/EMR/Hive and Python classification | AWS S3, EMR, Hive, Python, pandas, scikit-learn | [Explore](https://github.com/mathurhritik2507/aws-big-data-analytics-pipeline) |
 | **Nagrik** | Civic engagement web/mobile beta with challenges and reporting interfaces | React Native, Expo, Firebase, Vercel | [Code](https://github.com/mathurhritik2507/Nagrik) · [Web beta](https://nagrik-eight.vercel.app/login) |
